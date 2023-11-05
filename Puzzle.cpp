@@ -11,7 +11,7 @@ void computerTextPuzzle() {
     string binaryCode;
     cout << "Enter the binary code (8 byts): ";
     cin >> binaryCode;
-    //the code: 01010000 01100001 01110011 01110011 01110111 00110000 01110010 01100100
+    //the code: 0101000001100001011100110111001101110111001100000111001001100100
     // Check if the binary code is 64 bits long
   
 
